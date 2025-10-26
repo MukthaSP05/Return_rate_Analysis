@@ -59,8 +59,6 @@ Executed analytical queries using SQLite inside Python:
 - **Price vs Return Group:** Average price of low-return products ≈ 252.1.  
 - **Top 5 Returned Products:** e.g., *Pro Product_88 (Toys)* and *Max Product_92 (Electronics)* with 30% return rate.
 
----
-
 ### 6. 📊 Power BI Dashboard
 
 An **interactive Power BI dashboard** was designed to visualize model results and business insights derived from the XGBoost predictions and SQL summaries.  
